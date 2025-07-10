@@ -1,2 +1,3 @@
-cr.kylinos.cn/kylin/kylin-server-v10sp3-x86_64:20230324
+
 cr.kylinos.cn/kylin/kylin-server-v10sp3-aarch64:20230324
+cr.kylinos.cn/kylin/kylin-server-v10sp2-aarch64:20210524
