@@ -1,3 +1,2 @@
-
-cr.kylinos.cn/kylin/kylin-server-v10sp3-aarch64:20230324
-cr.kylinos.cn/kylin/kylin-server-v10sp2-aarch64:20210524
+redis@sha256:b52fce7a50c718c6836eef354f19428a9c9a6802379da6eb8a23853152e23f89
+nginx@sha256:39a9a15e0a81914a96fa9ffa980cdfe08e2e5e73ae3424f341ad1f470147c413
