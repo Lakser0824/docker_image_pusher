@@ -1,1 +1,1 @@
-alpine:3.22@sha256:4562b419adf48c5f3c763995d6014c123b3ce1d2e0ef2613b189779caa787192
+xuxueli/xxl-job-admin:2.3.0
