@@ -1,2 +1,1 @@
-node:22-bullseye
-golang:1.22-bullseye
+golang:1.26-bullseye
