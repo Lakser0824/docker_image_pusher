@@ -1,1 +1,2 @@
-xuxueli/xxl-job-admin:2.3.0
+node:22-bullseye
+golang:1.22-bullseye
