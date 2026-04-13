@@ -1,1 +1,1 @@
-node:20-bookworm-slim
+osixia/keepalived:2@sha256:4e439c9ca19dc9f78ba1399222dd460cce157ced1f5b590dd284c93c1a1c3783
