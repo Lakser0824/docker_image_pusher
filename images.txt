@@ -1,1 +1,1 @@
-portainer/pause:3.9@sha256:ebe23173a622dec70e3177b890e6cd1e9f37b49835ed5370fe0bff5abaa3e7fc
+coredns/coredns:1.11.3@sha256:31440a2bef59e2f1ffb600113b557103740ff851e27b0aef5b849f6e3ab994a6
