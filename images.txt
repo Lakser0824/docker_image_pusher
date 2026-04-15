@@ -1,1 +1,1 @@
-calico/apiserver:v3.29.1-64-gc9f39bd6e42f-arm64
+portainer/pause:3.9@sha256:bf0087a924f71d0ae10ad00d62a48c58c9cb73a95fdda31eecd5ec15d15546ed
