@@ -1,1 +1,1 @@
-portainer/pause:3.9@sha256:bf0087a924f71d0ae10ad00d62a48c58c9cb73a95fdda31eecd5ec15d15546ed
+portainer/pause:3.9@sha256:ebe23173a622dec70e3177b890e6cd1e9f37b49835ed5370fe0bff5abaa3e7fc
