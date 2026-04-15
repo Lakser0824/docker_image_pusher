@@ -1,1 +1,1 @@
-nginx:1.28.3-perl@sha256:37a6be137a4160d5778d4b1c83b06e57100d07bd29f0ab2d7e40011ea50e7569
+calico/apiserver:v3.29.1-64-gc9f39bd6e42f-arm64
