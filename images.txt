@@ -1,1 +1,2 @@
-coredns/coredns:1.11.3@sha256:31440a2bef59e2f1ffb600113b557103740ff851e27b0aef5b849f6e3ab994a6
+nginx/nginx-ingress:4.0.1-alpine@sha256:5a2252bda3a5f3d54fed4ca6a9f60c5f3cba0de6abff8e877e4c332e51d7532d
+
