@@ -1,2 +1,1 @@
-nginx/nginx-ingress:4.0.1-alpine@sha256:5a2252bda3a5f3d54fed4ca6a9f60c5f3cba0de6abff8e877e4c332e51d7532d
-
+golang:1.26.2-alpine3.22@sha256:f4129399655961ddde0f0b9bfeb259cb4e39866746fd917b4150d6907f6d17ae
