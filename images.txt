@@ -1,1 +1,1 @@
-haproxy:2.6.25-alpine@sha256:a37733f1b0ebf40f1bf92556207cd643f7fcca3cd8a522b868cca8b8c7fcf949
+registry.k8s.io/dns/k8s-dns-node-cache:1.26.7
