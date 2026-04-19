@@ -1,1 +1,1 @@
-registry.k8s.io/dns/k8s-dns-node-cache:1.26.7
+rancher/mirrored-k8s-dns-node-cache:1.23.0@sha256:dd84a1ffc728fa540a7fa23156fc094b9c092d2c03ecc13101ebb1aafadfabeb
