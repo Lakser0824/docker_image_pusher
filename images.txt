@@ -1,1 +1,1 @@
-chrislusf/seaweedfs-csi-driver:v1.4.8@sha256:fbd7e4d646f7bdd71391530332049392c407d73343cb959efc5fe816f6a382cb
+chrislusf/seaweedfs:4.21@sha256:f429a16e71759dc5749a18bc5a31081c4e131e7ba9bbad4eeca9839886de245d
