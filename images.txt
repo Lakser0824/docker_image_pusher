@@ -1,1 +1,1 @@
-chrislusf/seaweedfs:4.21@sha256:f429a16e71759dc5749a18bc5a31081c4e131e7ba9bbad4eeca9839886de245d
+chrislusf/seaweedfs-mount:v1.4.8@sha256:6e076020bf32e5202761e361fe44cdc6bb47688ac36caf9b1373d1ed9340cafa
