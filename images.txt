@@ -1,1 +1,1 @@
-dhi.io/aws-mountpoint-s3-csi-driver:v2.5.0@sha256:d3a2bcdc36e7cc0791b9c7bfe13c4f678196edbea7acb38bb014baeef5b9dba8
+chrislusf/seaweedfs-csi-driver:v1.4.8@sha256:fbd7e4d646f7bdd71391530332049392c407d73343cb959efc5fe816f6a382cb
