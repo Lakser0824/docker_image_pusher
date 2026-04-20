@@ -1,1 +1,1 @@
-rancher/mirrored-k8s-dns-node-cache:1.23.0@sha256:dd84a1ffc728fa540a7fa23156fc094b9c092d2c03ecc13101ebb1aafadfabeb
+dhi.io/aws-mountpoint-s3-csi-driver:v2.5.0@sha256:87168c4c4e0f3244e82ac9adba2a671d0919dc9089bcf16b5646c6a3d8325249
