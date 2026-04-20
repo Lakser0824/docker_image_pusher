@@ -1,1 +1,1 @@
-dhi.io/aws-mountpoint-s3-csi-driver:v2.5.0@sha256:87168c4c4e0f3244e82ac9adba2a671d0919dc9089bcf16b5646c6a3d8325249
+dhi.io/aws-mountpoint-s3-csi-driver:v2.5.0@sha256:d3a2bcdc36e7cc0791b9c7bfe13c4f678196edbea7acb38bb014baeef5b9dba8
