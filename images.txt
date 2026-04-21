@@ -5,3 +5,4 @@ longhornio/longhorn-manager:v1.11.1-rcl@sha256:2ef37c61d14187fd6a48aa57edc553b49
 longhornio/longhorn-share-manager:v1.11.1-rc1@sha256:c72261707d0a5656b13161fe3ffd0b2bf980af5d4474180022166020e7b2f4f5
 longhornio/longhorn-ui:v1.11.1-rc1@sha256:87c2bbc821838058ec278fe991be39b8415482ad7890d9c08f1ebcd32647df5f
 longhornio/longhorn-cli:v1.11.1-rc1@sha256:3971b2a87f058d3d2ccda170ab0ec3c83f641c705c52d9eeacfa78f29a3ac4c7
+longhornio/support-bundle-kit:v0.0.81@sha256:7498a901f346a076b0dca3bec362819da973ad1f002343cf870433caf81db569
