@@ -1,1 +1,2 @@
-longhornio/longhorn-manager:v1.11.1-rc1@sha256:411b3f95e67c0625d28926b61a27f442d6aab189706eae2d5751056857aa303a
+longhornio/longhorn-ui:v1.11.1-rc1@sha256:8f12e5b0a40df322fda642ba39515f03ef0ea113158fd1380eb69b0cbecab85e
+longhornio/longhorn-manager:v1.11.1-rc1@sha256:2ef37c61d14187fd6a48aa57edc553b49bb177a7fea128ae452c57916fc11387
