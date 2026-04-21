@@ -1,1 +1,7 @@
-ubuntu:jammy-20260410@sha256:0124b5388c7c05576c0cedeab121a7c590b0ec16b4238e6b997ad9d57ccdefd8
+longhornio/backing-image-manager:v1.11.1-rc1@sha256:2a7721a6da340b4c0ce5c9d7079bd2ccf9f4dfa23f11262fcf87548b65970010
+longhornio/longhorn-engine:v1.11.1-rc1-arm64
+longhornio/longhorn-instance-manager:v1.11.1-arm64
+longhornio/longhorn-manager:v1.11.1-rcl@sha256:2ef37c61d14187fd6a48aa57edc553b49bb177a7fea128ae452c57916fc11387
+longhornio/longhorn-share-manager:v1.11.1-rc1@sha256:c72261707d0a5656b13161fe3ffd0b2bf980af5d4474180022166020e7b2f4f5
+longhornio/longhorn-ui:v1.11.1-rc1@sha256:87c2bbc821838058ec278fe991be39b8415482ad7890d9c08f1ebcd32647df5f
+longhornio/longhorn-cli:v1.11.1-rc1@sha256:3971b2a87f058d3d2ccda170ab0ec3c83f641c705c52d9eeacfa78f29a3ac4c7
