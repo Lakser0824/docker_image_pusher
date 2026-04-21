@@ -1,1 +1,1 @@
-longhornio/support-bundle-kit:v0.0.81@sha256:8b8f05c2e410b8bcf6bf68764cbf7f0b5956d7e15875fb498df0fb7ca513db61
+longhornio/longhorn-manager:v1.11.1-rc1@sha256:411b3f95e67c0625d28926b61a27f442d6aab189706eae2d5751056857aa303a
