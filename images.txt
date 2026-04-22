@@ -1,1 +1,1 @@
-longhornio/backing-image-manager:v1.11.1@sha256:84cd4cb6b929741f21b5c13c3da7a168c31aa6619f668940f7a24ffdb343b112
+haproxy:3.0.19@sha256:6e10f08ee4fcc759c73cb578eb8ba9c803aec96892fd9a9ed9ca3c271e7affa0
