@@ -1,3 +1,3 @@
 osixia/keepalived:2.0.19
-haproxy:3.0.20
+haproxy:3.0.18
 kubesphere/pause:3.9
