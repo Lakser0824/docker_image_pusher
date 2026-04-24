@@ -1,1 +1,3 @@
-haproxy:3.0.19@sha256:6e10f08ee4fcc759c73cb578eb8ba9c803aec96892fd9a9ed9ca3c271e7affa0
+osixia/keepalived:2.0.19
+haproxy:3.0.19-alpine
+kubesphere/pause:3.9
