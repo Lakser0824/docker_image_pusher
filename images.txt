@@ -1,3 +1,1 @@
-quay.io/calico/cni:v3.29.1
-quay.io/calico/node:v3.29.1
-quay.io/calico/kube-controllers:v3.29.1
+ubuntu:24.04@sha256:7607b6f97024ef850f1bd6e91a89273beb5973d04432c5b87f15f813d64b9c05
