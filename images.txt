@@ -1,12 +1,12 @@
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/kube-nova-web:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/console-api:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/console-rpc:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/manager-api:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/manager-rpc:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/portal-api:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/portal-rpc:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/workload-api:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/jaeger-all-in-one:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/redis:7-alpine"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/minio:latest"
-    "registry.cn-hangzhou.aliyuncs.com/kube-nova/mysql:8.0"
+registry.cn-hangzhou.aliyuncs.com/kube-nova/kube-nova-web:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/console-api:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/console-rpc:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/manager-api:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/manager-rpc:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/portal-api:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/portal-rpc:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/workload-api:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/jaeger-all-in-one:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/redis:7-alpine
+registry.cn-hangzhou.aliyuncs.com/kube-nova/minio:latest
+registry.cn-hangzhou.aliyuncs.com/kube-nova/mysql:8.0
