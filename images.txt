@@ -1,1 +1,1 @@
-static-debian12:buildcache-arm64
+kumahq/static-debian12:buildcache-arm64
