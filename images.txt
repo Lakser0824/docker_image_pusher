@@ -1,1 +1,1 @@
-static-debian12:buildcache-arm64@sha256:8354b228fef13b74262908df85bfb6e2210189525d0a78cbb72e7056bcf45789
+static-debian12:buildcache-arm64
