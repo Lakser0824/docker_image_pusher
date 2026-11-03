@@ -1,1 +1,1 @@
-node:20-slim@sha256:10fc5f5f33cba34a4befa58fcf95f724e67707fab7c32fb8cd3fcf90ebcc20df
+registry.suse.com/bci/bci-base:15.7@sha256:becb9cc3cf49a776b221db9c7ffb2d9f77f9321a0d15c36100d3f13c65c72b18
