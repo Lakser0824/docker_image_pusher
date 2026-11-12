@@ -1,1 +1,1 @@
-node:22-slim@sha256:1ee7b5f35129c6f4af835661a7a3cfbdd4748944c23b05567aa6ec00c6689e46
+velero/velero-plugin-for-aws:v1.14.4@sha256:74bc6b9ac4b8ac3de30c4630b9c272d6d2ce7594f0f306cab8a71bec1ad9e966
