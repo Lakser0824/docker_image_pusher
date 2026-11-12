@@ -1,1 +1,1 @@
-velero/velero-plugin-for-aws:v1.14.4@sha256:74bc6b9ac4b8ac3de30c4630b9c272d6d2ce7594f0f306cab8a71bec1ad9e966
+velero/velero:v1.18.4@sha256:858b3a0ac3d5bc4cf3390495d154a6c3d00ae6a30ace2e2394a2e47d26254e7a
