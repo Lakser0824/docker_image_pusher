@@ -1,1 +1,1 @@
-registry.suse.com/bci/bci-base:15.7@sha256:becb9cc3cf49a776b221db9c7ffb2d9f77f9321a0d15c36100d3f13c65c72b18
+node:22-slim@sha256:1ee7b5f35129c6f4af835661a7a3cfbdd4748944c23b05567aa6ec00c6689e46
